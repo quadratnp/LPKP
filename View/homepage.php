@@ -35,7 +35,7 @@
                 <img src="view/img/jumbotron.png" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="view/img/tim.png" class="d-block w-100" alt="...">
+                <img src="view/img/tim.jpg" class="d-block w-100" alt="...">
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">

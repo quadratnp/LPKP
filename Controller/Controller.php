@@ -6,6 +6,6 @@ class Controller
 {
     public function view_index()
     {
-        return view::createView('ourProgram.php', []);
+        return view::createView('homepage.php', []);
     }
 }
