@@ -21,7 +21,7 @@
         </div>
     </nav>
 
-    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel" style="margin-top: 3rem;">
         <div class="carousel-indicators">
             <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
             <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -53,7 +53,7 @@
             <div class="card" style="width: 20rem; margin: auto; margin-top: 4rem; margin-bottom: 3rem;">
                 <div class="card-body">
                     <h5 class="card-title"><strong>VISI</strong></h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <p class="card-text">Visi foya misi foya visi misi foya.</p>
                 </div>
             </div>
 
