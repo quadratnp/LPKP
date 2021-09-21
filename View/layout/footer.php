@@ -22,12 +22,12 @@
                 <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4 mt-5">
                     <!-- Links -->
                     <h6 class="text-uppercase fw-bold">Useful links</h6>
-                    <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 60px; background-color: #2c2c2c; height: 2px;" />
+                    <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 60px; background-color: #2c2c2c; height: 2px; text-decoration: none;" />
                     <p>
-                        <a href="#!" class="text-white">Career</a>
+                        <a href="#" class="" style="text-decoration: none; color: black;">Career</a>
                     </p>
                     <p>
-                        <a href="#!" class="text-white">Donation</a>
+                        <a href="#" class="" style="text-decoration: none; color: black;">Donation</a>
                     </p>
                 </div>
                 <!-- Grid column -->
@@ -59,16 +59,16 @@
 
     <!-- Right -->
     <div>
-        <a href="" class="text-white me-4">
+        <a href="" class="me-4" style="text-decoration: none; color: black;">
             <i class="fab fa-facebook-f"></i>
         </a>
-        <a href="" class="text-white me-4">
+        <a href="" class="me-4" style="text-decoration: none; color: black;">
             <i class="fab fa-twitter"></i>
         </a>
-        <a href="" class="text-white me-4">
+        <a href="" class="me-4" style="text-decoration: none; color: black;">
             <i class="fab fa-youtube"></i>
         </a>
-        <a href="" class="text-white me-4">
+        <a href="" class="me-4" style="text-decoration: none; color: black;">
             <i class="fab fa-instagram"></i>
         </a>
     </div>
