@@ -10,10 +10,10 @@
                 <!-- Grid column -->
                 <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4 mt-5">
                     <!-- Content -->
-                    <h6 class="text-uppercase fw-bold">LPKP Balsamiq</h6>
+                    <h6 class="text-uppercase fw-bold">LPKP JATIM</h6>
                     <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 60px; background-color: #2c2c2c; height: 2px; " />
                     <p>
-                        Lembaga Pengkajian Kemasyarakatan dan Pembangunan (LPKP) merupakan organisasi non-profit yang didirikan tanggal 1989, secara aktif berkerja untuk membantu petani dan keluarganya agar mendapat penghasilan yang lebih baik.
+                        LPKP JATIM adalah lembaga kader yang lahir dari kelompok studi "Kembang Rakyat" Yang anggotanya mahasiswa dari Jurusan Pendidikan Luar Sekolah
                     </p>
                 </div>
                 <!-- Grid column -->

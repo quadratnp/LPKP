@@ -1,7 +1,7 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
         <div class="container">
-            <a class="navbar-brand" href="#">LPKP Balsamiq</a>
+            <a class="navbar-brand" href="#">LPKP JATIM</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -29,13 +29,13 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="view/img/bapirnameless.jpg" class="d-block w-100" alt="...">
+                <img src="view/img/carousel1f.jpg" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="view/img/jumbotron.png" class="d-block w-100" alt="...">
+                <img src="view/img/carousel2f.jpg" class=" d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="view/img/tim.jpg" class="d-block w-100" alt="...">
+                <img src="view/img/carousel3f.jpg" class="d-block w-100" alt="...">
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -53,7 +53,7 @@
             <div class="card" style="width: 20rem; margin: auto; margin-top: 4rem; margin-bottom: 3rem;">
                 <div class="card-body">
                     <h5 class="card-title"><strong>VISI</strong></h5>
-                    <p class="card-text">Visi foya misi foya visi misi foya.</p>
+                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 </div>
             </div>
 
