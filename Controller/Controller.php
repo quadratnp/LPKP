@@ -8,4 +8,8 @@ class Controller
     {
         return view::createView('homepage.php', []);
     }
+    public function view_about()
+    {
+        return view::createView('aboutUs.php', []);
+    }
 }
