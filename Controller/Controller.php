@@ -12,4 +12,8 @@ class Controller
     {
         return view::createView('aboutUs.php', []);
     }
+    public function view_program()
+    {
+        return view::createView('ourProgram.php', []);
+    }
 }

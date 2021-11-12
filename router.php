@@ -15,6 +15,11 @@ if ($_SERVER["REQUEST_METHOD"] == "GET") {
             $ctrl = new Controller();
             echo $ctrl->view_about();
             break;
+        case $baseURL . '/program':
+            require_once "Controller/Controller.php";
+            $ctrl = new Controller();
+            echo $ctrl->view_program();
+            break;
         default:
             echo '';
             break;

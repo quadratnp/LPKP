@@ -8,12 +8,14 @@
             <!-- Grid row -->
             <div class="row mt-3">
                 <!-- Grid column -->
-                <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4 mt-5">
+                <div class="col-md-3 col-lg-4 col-xl-5 mx-auto mb-4 mt-5">
                     <!-- Content -->
-                    <h6 class="text-uppercase fw-bold">LPKP JATIM</h6>
-                    <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 60px; background-color: #2c2c2c; height: 2px; " />
+                    <h6 class="text-uppercase fw-bold">LPKP</h6>
+                    <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 40px; background-color: #2c2c2c; height: 2px; " />
                     <p>
-                        LPKP JATIM adalah lembaga kader yang lahir dari kelompok studi "Kembang Rakyat" Yang anggotanya mahasiswa dari Jurusan Pendidikan Luar Sekolah
+                        Lembaga Pengkajian Kemasyarakatan dan Pembangunan (LPKP) merupakan organisasi
+                        non-profit yang didirikan tanggal 1989, secara aktif berkerja untuk membantu petani
+                        dan keluarganya agar mendapat penghasilan yang lebih baik.
                     </p>
                 </div>
                 <!-- Grid column -->
@@ -22,24 +24,24 @@
                 <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4 mt-5">
                     <!-- Links -->
                     <h6 class="text-uppercase fw-bold">Useful links</h6>
-                    <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 60px; background-color: #2c2c2c; height: 2px; text-decoration: none;" />
+                    <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 108px; background-color: #2c2c2c; height: 2px; text-decoration: none;" />
                     <p>
-                        <a href="#" class="" style="text-decoration: none; color: black;">Career</a>
+                        <a href="" class="" style="text-decoration: none; color: black;">Career</a>
                     </p>
                     <p>
-                        <a href="#" class="" style="text-decoration: none; color: black;">Donation</a>
+                        <a href="" class="" style="text-decoration: none; color: black;">Donation</a>
                     </p>
                 </div>
                 <!-- Grid column -->
 
                 <!-- Grid column -->
-                <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4 mt-5">
+                <div class="col-md-4 col-lg-3 col-xl-2 mx-auto mb-md-0 mb-4 mt-5">
                     <!-- Links -->
                     <h6 class="text-uppercase fw-bold">Contact</h6>
-                    <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 60px; background-color: #2c2c2c; height: 2px" />
+                    <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 75px; background-color: #2c2c2c; height: 2px; text-decoration: non;" />
                     <p><i class="fas fa-home mr-3"></i> Malang</p>
-                    <p><i class="fas fa-envelope mr-3"></i> ferdiarmy@gmail.com</p>
-                    <p><i class="fas fa-phone mr-3"></i> 14045</p>
+                    <p><i class="fas fa-envelope mr-3"></i> -</p>
+                    <p><i class="fas fa-phone mr-3"></i> -</p>
                 </div>
                 <!-- Grid column -->
             </div>
@@ -50,7 +52,7 @@
 
 </footer>
 <!-- Footer -->
-<section class="d-flex justify-content-between p-3" style="background-color: #a3a3a3">
+<section class="d-flex justify-content-between p-2" style="background-color: #a3a3a3; text-decoration: none;">
     <!-- Left -->
     <div class="me-5">
 
@@ -59,36 +61,18 @@
 
     <!-- Right -->
     <div>
-        <a href="" class="me-4" style="text-decoration: none; color: black;">
+        <a href="https://www.facebook.com/lpkpjatim/" class="me-4" style="text-decoration: none; color: black;">
             <i class="fab fa-facebook-f"></i>
         </a>
-        <a href="" class="me-4" style="text-decoration: none; color: black;">
+        <a href="https://mobile.twitter.com/lpkpanwar" class="me-4" style="text-decoration: none; color: black;">
             <i class="fab fa-twitter"></i>
         </a>
-        <a href="" class="me-4" style="text-decoration: none; color: black;">
+        <a href="https://www.youtube.com/channel/UCZdJGsT6vPSOjYUFmRbJswA" class="me-4" style="text-decoration: none; color: black;">
             <i class="fab fa-youtube"></i>
         </a>
-        <a href="" class="me-4" style="text-decoration: none; color: black;">
+        <a href="https://www.instagram.com/lpkpjatim/?hl=en" class="me-4" style="text-decoration: none; color: black;">
             <i class="fab fa-instagram"></i>
         </a>
     </div>
     <!-- Right -->
 </section>
-<!-- Section: Social media -->
-
-<!-- End of .container -->
-
-
-
-<!-- Optional JavaScript; choose one of the two! -->
-
-<!-- Option 1: Bootstrap Bundle with Popper -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-
-<!-- Option 2: Separate Popper and Bootstrap JS -->
-<!--
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
-    -->
-
-</html>

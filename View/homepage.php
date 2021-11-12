@@ -11,7 +11,7 @@
                         <a class="nav-link active" aria-current="page" href="home">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Our Program</a>
+                        <a class="nav-link" href="program">Our Program</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="about">About Us</a>
@@ -48,23 +48,6 @@
         </button>
     </div>
 
-    <div class="container">
-        <div class="row">
-            <div class="card" style="width: 20rem; margin: auto; margin-top: 4rem; margin-bottom: 3rem;">
-                <div class="card-body">
-                    <h5 class="card-title"><strong>VISI</strong></h5>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                </div>
-            </div>
-
-            <div class="card" style="width: 20rem; margin: auto; margin-top: 4rem; margin-bottom: 3rem;">
-                <div class="card-body">
-                    <h5 class="card-title"><strong>MISI</strong></h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                </div>
-            </div>
-        </div>
-    </div>
 </body>
 
 <!-- Remove the container if you want to extend the Footer to full width. -->
