@@ -1,7 +1,6 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Models\Program;
 
 /*
 |--------------------------------------------------------------------------
@@ -15,20 +14,5 @@ use App\Models\Program;
 */
 
 Route::get('/', function () {
-    return view('home', [
-        "title" => "HOME"
-    ]);
-});
-
-Route::get('/about', function () {
-    return view('about', [
-        "title" => "ABOUT"
-    ]);
-});
-
-Route::get('/program', function () {
-    return view('program',[
-        "title" => "PROGRAM",
-        "posts" => Program::all()
-    ]);
+    return view('welcome');
 });
